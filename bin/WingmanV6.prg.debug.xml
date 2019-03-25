@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="31" pc="268435458" symbol="setMenuItem"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="49" pc="268435874" symbol="setMenuItemII"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="90" pc="268436104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="93" pc="268436123" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="94" pc="268436150" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="95" pc="268436177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="96" pc="268436213" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="97" pc="268436225" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="98" pc="268436261" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="99" pc="268436339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="102" pc="268436417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="103" pc="268436453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="104" pc="268436528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="108" pc="268436603" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="109" pc="268436639" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="110" pc="268436872" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="112" pc="268436892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="113" pc="268436905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="114" pc="268436941" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="115" pc="268437249" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="117" pc="268437269" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="118" pc="268437282" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="119" pc="268437318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="120" pc="268437638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="122" pc="268437658" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="123" pc="268437671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="124" pc="268437707" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="125" pc="268438027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="129" pc="268438047" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="130" pc="268438083" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="131" pc="268438334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="133" pc="268438354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="134" pc="268438367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="135" pc="268438403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="136" pc="268438729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="138" pc="268438749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="139" pc="268438762" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="140" pc="268438798" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="141" pc="268439136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="143" pc="268439156" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="144" pc="268439169" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="145" pc="268439205" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="146" pc="268439543" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="163" pc="268439566" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="170" pc="268439641" symbol="onCancel"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="176" pc="268439716" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="177" pc="268439736" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="180" pc="268439761" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="184" pc="268439774" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="190" pc="268439793" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="191" pc="268439810" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="194" pc="268439835" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\reviewFlight.mc" lineNum="199" pc="268439851" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="52" pc="268439874" symbol="atan2"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="66" pc="268440143" symbol="mod"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="68" pc="268440165" symbol="mod"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="73" pc="268440171" symbol="abs"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="74" pc="268440210" symbol="abs"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="84" pc="268440216" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="85" pc="268440223" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="87" pc="268440325" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="88" pc="268440354" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="89" pc="268440365" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="92" pc="268440397" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="96" pc="268440423" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="98" pc="268440481" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="101" pc="268440504" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="111" pc="268440589" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="112" pc="268440589" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="113" pc="268440589" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="116" pc="268440589" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="118" pc="268440720" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="120" pc="268440779" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="122" pc="268440795" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="132" pc="268440801" symbol="CalcVspeed"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="144" pc="268440843" symbol="CalcNGS"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="152" pc="268440900" symbol="calcCGS"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="153" pc="268440921" symbol="calcCGS"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="154" pc="268440925" symbol="calcCGS"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="155" pc="268440947" symbol="calcCGS"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="168" pc="268440953" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="169" pc="268441120" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="170" pc="268441128" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="171" pc="268441147" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="172" pc="268441166" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="173" pc="268441185" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="176" pc="268441204" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="178" pc="268441222" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="179" pc="268441253" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="180" pc="268441284" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="184" pc="268441334" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="185" pc="268441348" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="206" pc="268441374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="208" pc="268441374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="209" pc="268441397" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="210" pc="268441427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="211" pc="268441457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="212" pc="268441487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="214" pc="268441517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="215" pc="268441536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="218" pc="268441555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="219" pc="268441591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="220" pc="268441603" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="221" pc="268441639" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="223" pc="268441652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="226" pc="268441675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="227" pc="268441688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="228" pc="268441758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="230" pc="268441783" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="231" pc="268441800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="234" pc="268441825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="238" pc="268441856" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="239" pc="268441893" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="241" pc="268441930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="242" pc="268441947" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="243" pc="268441969" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="244" pc="268441991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="247" pc="268442025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="248" pc="268442053" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="249" pc="268442075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="253" pc="268442112" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="254" pc="268442182" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="255" pc="268442207" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="256" pc="268442244" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="257" pc="268442281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="260" pc="268442297" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="261" pc="268442319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="262" pc="268442336" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="266" pc="268442376" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="267" pc="268442435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="268" pc="268442452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="271" pc="268442520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="276" pc="268442585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="277" pc="268442621" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="278" pc="268442672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="279" pc="268442688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="282" pc="268442707" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="284" pc="268442720" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="293" pc="268442736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="294" pc="268442758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="295" pc="268442812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="296" pc="268442866" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="297" pc="268442888" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="298" pc="268442948" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="303" pc="268443008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="304" pc="268443030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="309" pc="268443074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="312" pc="268443110" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="313" pc="268443197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="314" pc="268443302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="315" pc="268443389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="316" pc="268443476" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="319" pc="268443563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="320" pc="268443580" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="321" pc="268443613" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="322" pc="268443703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="323" pc="268443727" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="324" pc="268443817" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="325" pc="268443847" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="326" pc="268443937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="327" pc="268443961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="330" pc="268444054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="331" pc="268444087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="332" pc="268444177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="333" pc="268444201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="334" pc="268444291" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="335" pc="268444321" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="336" pc="268444411" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="337" pc="268444435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="341" pc="268444528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="342" pc="268444564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="343" pc="268444576" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="344" pc="268444612" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="360" pc="268444690" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inPlaneView.mc" lineNum="376" pc="268444771" symbol="onBack"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="55" pc="268444847" symbol="initialize"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="56" pc="268444859" symbol="initialize"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="63" pc="268444872" symbol="atan2"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="75" pc="268445141" symbol="mod"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="77" pc="268445163" symbol="mod"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="82" pc="268445169" symbol="abs"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="83" pc="268445208" symbol="abs"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="93" pc="268445214" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="94" pc="268445221" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="96" pc="268445323" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="97" pc="268445352" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="98" pc="268445363" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="101" pc="268445395" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="105" pc="268445421" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="107" pc="268445479" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="110" pc="268445502" symbol="CourseCorrect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="120" pc="268445587" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="121" pc="268445587" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="122" pc="268445587" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="125" pc="268445587" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="127" pc="268445718" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="129" pc="268445777" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="131" pc="268445793" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="141" pc="268445799" symbol="CalcVspeed"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="153" pc="268445841" symbol="CalcNGS"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="162" pc="268445898" symbol="calcCGS"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="170" pc="268445952" symbol="setStatus"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="189" pc="268446016" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="190" pc="268446342" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="191" pc="268446350" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="192" pc="268446369" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="193" pc="268446388" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="194" pc="268446407" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="197" pc="268446426" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="199" pc="268446444" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="200" pc="268446475" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="201" pc="268446506" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="205" pc="268446556" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="206" pc="268446570" symbol="drawArrow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="213" pc="268446587" symbol="MovingAverage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="214" pc="268446587" symbol="MovingAverage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="215" pc="268446598" symbol="MovingAverage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="218" pc="268446620" symbol="MovingAverage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="220" pc="268446624" symbol="MovingAverage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="225" pc="268446630" symbol="startRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="226" pc="268446647" symbol="startRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="227" pc="268446686" symbol="startRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="228" pc="268446748" symbol="startRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="229" pc="268446766" symbol="startRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="235" pc="268446791" symbol="stopRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="236" pc="268446808" symbol="stopRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="237" pc="268446847" symbol="stopRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="238" pc="268446865" symbol="stopRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="239" pc="268446883" symbol="stopRecording"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="252" pc="268446904" symbol="onHide"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="262" pc="268446922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="264" pc="268446922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="265" pc="268446945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="266" pc="268446975" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="267" pc="268447005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="268" pc="268447035" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="270" pc="268447065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="272" pc="268447082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="274" pc="268447109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="275" pc="268447125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="276" pc="268447147" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="277" pc="268447169" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="279" pc="268447191" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="280" pc="268447204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="283" pc="268447220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="284" pc="268447233" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="287" pc="268447249" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="288" pc="268447262" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="291" pc="268447278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="292" pc="268447295" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="295" pc="268447418" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="298" pc="268447538" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="299" pc="268447555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="307" pc="268447571" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="308" pc="268447590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="311" pc="268447609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="312" pc="268447645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="313" pc="268447657" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="314" pc="268447693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="316" pc="268447706" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="319" pc="268447729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="320" pc="268447742" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="321" pc="268447812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="323" pc="268447837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="324" pc="268447854" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="327" pc="268447879" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="331" pc="268447910" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="332" pc="268447947" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="334" pc="268447984" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="335" pc="268448001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="336" pc="268448023" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="337" pc="268448045" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="340" pc="268448079" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="341" pc="268448107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="342" pc="268448129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="346" pc="268448166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="347" pc="268448236" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="350" pc="268448261" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="351" pc="268448320" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="352" pc="268448337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="355" pc="268448405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="360" pc="268448470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="362" pc="268448496" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="363" pc="268448509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="364" pc="268448560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="365" pc="268448603" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="368" pc="268448641" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="369" pc="268448670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="372" pc="268448716" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="373" pc="268448732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="378" pc="268448751" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="380" pc="268448785" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="381" pc="268448807" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="382" pc="268448861" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="383" pc="268448915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="384" pc="268448937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="385" pc="268448997" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="387" pc="268449057" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="388" pc="268449079" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="389" pc="268449139" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="391" pc="268449199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="392" pc="268449221" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="393" pc="268449281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="394" pc="268449341" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="395" pc="268449363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="396" pc="268449423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="401" pc="268449520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="402" pc="268449542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="403" pc="268449596" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="404" pc="268449650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="405" pc="268449672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="406" pc="268449732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="408" pc="268449792" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="409" pc="268449814" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="410" pc="268449874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="412" pc="268449934" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="413" pc="268449956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="414" pc="268450016" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="415" pc="268450076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="416" pc="268450098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="417" pc="268450158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="423" pc="268450238" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="424" pc="268450260" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="425" pc="268450314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="426" pc="268450368" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="427" pc="268450390" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="428" pc="268450450" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="430" pc="268450510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="431" pc="268450546" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="432" pc="268450606" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="434" pc="268450666" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="435" pc="268450688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="436" pc="268450748" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="437" pc="268450808" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="438" pc="268450830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="439" pc="268450890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="444" pc="268450970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="445" pc="268450992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="446" pc="268451046" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="447" pc="268451100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="448" pc="268451122" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="449" pc="268451182" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="451" pc="268451242" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="452" pc="268451264" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="453" pc="268451324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="455" pc="268451384" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="456" pc="268451406" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="457" pc="268451466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="458" pc="268451526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="459" pc="268451548" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="460" pc="268451608" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="464" pc="268451671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="465" pc="268451693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="466" pc="268451753" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="467" pc="268451813" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="470" pc="268451857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="471" pc="268451882" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="472" pc="268451901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="473" pc="268451914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="474" pc="268451950" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="479" pc="268452022" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="482" pc="268452036" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="483" pc="268452062" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="486" pc="268452087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="489" pc="268452148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="490" pc="268452174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="494" pc="268452199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="495" pc="268452225" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="498" pc="268452250" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="500" pc="268452311" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="501" pc="268452337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="504" pc="268452362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="507" pc="268452375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="508" pc="268452401" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="512" pc="268452426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="515" pc="268452487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="516" pc="268452513" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="521" pc="268452541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="524" pc="268452554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="525" pc="268452580" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="529" pc="268452605" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="530" pc="268452631" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="537" pc="268452659" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="562" pc="268452699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="563" pc="268452735" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="564" pc="268452747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="565" pc="268452783" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="583" pc="268452861" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\inFlightNav.mc" lineNum="601" pc="268452942" symbol="onBack"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="18" pc="268453018" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="19" pc="268453018" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="20" pc="268453018" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="23" pc="268453018" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="25" pc="268453149" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="27" pc="268453208" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="29" pc="268453224" symbol="hDist"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="42" pc="268453230" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="43" pc="268453230" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="44" pc="268453241" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="47" pc="268453251" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="50" pc="268453258" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="51" pc="268453562" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="52" pc="268453570" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="53" pc="268453578" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="54" pc="268453586" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="55" pc="268453594" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="56" pc="268453602" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="57" pc="268453621" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="58" pc="268453640" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="59" pc="268453659" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="61" pc="268453678" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="63" pc="268453714" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="65" pc="268453732" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="66" pc="268453763" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="67" pc="268453794" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="71" pc="268453844" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="72" pc="268453858" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="74" pc="268453872" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="75" pc="268454146" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="77" pc="268454182" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="79" pc="268454200" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="80" pc="268454231" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="81" pc="268454262" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="85" pc="268454312" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="86" pc="268454326" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="90" pc="268454340" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="91" pc="268454362" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="92" pc="268454381" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="93" pc="268454388" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="94" pc="268454404" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="95" pc="268454411" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="96" pc="268454418" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="97" pc="268454437" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="100" pc="268454456" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="101" pc="268454492" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="102" pc="268454672" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="104" pc="268454690" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="105" pc="268454721" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="106" pc="268454752" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="110" pc="268454802" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="111" pc="268454816" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="113" pc="268454830" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="114" pc="268454866" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="115" pc="268455046" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="117" pc="268455064" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="118" pc="268455095" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="119" pc="268455126" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="123" pc="268455176" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="124" pc="268455190" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="126" pc="268455204" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="127" pc="268455240" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="128" pc="268455429" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="130" pc="268455447" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="131" pc="268455478" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="132" pc="268455509" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="136" pc="268455559" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="137" pc="268455573" symbol="drawHand"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="150" pc="268455590" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="151" pc="268455603" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="152" pc="268455610" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="153" pc="268455814" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="154" pc="268455822" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="155" pc="268455830" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="156" pc="268455849" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="157" pc="268455868" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="158" pc="268455868" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="162" pc="268455868" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="163" pc="268455904" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="164" pc="268455941" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="166" pc="268455959" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="167" pc="268455978" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="168" pc="268455997" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="169" pc="268456028" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="170" pc="268456059" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="174" pc="268456109" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="178" pc="268456155" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="179" pc="268456191" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="180" pc="268456383" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="181" pc="268456420" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="183" pc="268456438" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="184" pc="268456457" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="185" pc="268456476" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="186" pc="268456507" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="187" pc="268456538" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="191" pc="268456588" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="207" pc="268456637" symbol="initialize"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="210" pc="268456660" symbol="initialize"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="216" pc="268456676" symbol="initialize"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="237" pc="268456698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="238" pc="268456698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="239" pc="268456715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="240" pc="268456715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="241" pc="268456715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="242" pc="268456729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="243" pc="268456736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="245" pc="268456736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="246" pc="268456759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="247" pc="268456789" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="248" pc="268456819" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="249" pc="268456849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="253" pc="268456879" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="254" pc="268456892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="258" pc="268456905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="259" pc="268456922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="262" pc="268456953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="263" pc="268456989" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="267" pc="268457033" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="268" pc="268457069" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="271" pc="268457113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="274" pc="268457127" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="275" pc="268457158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="276" pc="268457174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="278" pc="268457197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="280" pc="268457243" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="281" pc="268457278" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="283" pc="268457318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="284" pc="268457354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="285" pc="268457387" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="286" pc="268457423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="287" pc="268457456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="288" pc="268457492" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="289" pc="268457525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="290" pc="268457561" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="291" pc="268457594" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="292" pc="268457630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="293" pc="268457663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="294" pc="268457699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="298" pc="268457732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="299" pc="268457745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="300" pc="268457797" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="303" pc="268457930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="350" pc="268458014" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="355" pc="268458089" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="360" pc="268458095" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2View.mc" lineNum="365" pc="268458101" symbol="onBack"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="28" pc="268458121" symbol="setPosition"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="29" pc="268458131" symbol="setPosition"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="34" pc="268458150" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="35" pc="268458166" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="46" pc="268458185" symbol="onStart"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="47" pc="268458229" symbol="onStart"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="48" pc="268458271" symbol="onStart"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="54" pc="268458306" symbol="onStop"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManV2App.mc" lineNum="59" pc="268458353" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="34" pc="268458424" symbol="setMenuItem"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="70" pc="268458540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="73" pc="268458559" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="74" pc="268458586" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="75" pc="268458622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="76" pc="268458634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="77" pc="268458670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="79" pc="268458748" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="80" pc="268458784" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="81" pc="268458859" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="85" pc="268458934" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="86" pc="268458970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="87" pc="268459203" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="89" pc="268459223" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="90" pc="268459236" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="91" pc="268459272" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="92" pc="268459580" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="94" pc="268459600" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="95" pc="268459613" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="96" pc="268459649" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="97" pc="268459969" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="99" pc="268459989" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="100" pc="268460002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="101" pc="268460038" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="102" pc="268460358" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="106" pc="268460378" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="107" pc="268460414" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="108" pc="268460665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="110" pc="268460685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="111" pc="268460698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="112" pc="268460734" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="113" pc="268461060" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="115" pc="268461080" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="116" pc="268461093" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="117" pc="268461129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="118" pc="268461467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="120" pc="268461487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="121" pc="268461500" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="122" pc="268461536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="123" pc="268461874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="140" pc="268461897" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="151" pc="268462427" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="152" pc="268462447" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="155" pc="268462472" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="159" pc="268462485" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="165" pc="268462504" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="166" pc="268462521" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="169" pc="268462546" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="174" pc="268462562" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\WingManMainMenu.mc" lineNum="182" pc="268462581" symbol="onBack"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="22" pc="268462657" symbol="setAlt"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="43" pc="268462678" symbol="onShow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="44" pc="268462691" symbol="onShow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="45" pc="268462704" symbol="onShow"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="54" pc="268462723" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="55" pc="268462736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="58" pc="268462759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="59" pc="268462786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="61" pc="268462817" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="62" pc="268462853" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="63" pc="268462865" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="64" pc="268462901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="66" pc="268462976" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="67" pc="268463012" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="68" pc="268463075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="72" pc="268463138" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="73" pc="268463174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="74" pc="268463353" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="76" pc="268463373" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="77" pc="268463386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="78" pc="268463422" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="79" pc="268463676" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="81" pc="268463696" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="82" pc="268463709" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="83" pc="268463745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="84" pc="268464011" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="86" pc="268464031" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="87" pc="268464044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="88" pc="268464080" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="89" pc="268464346" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="93" pc="268464366" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="94" pc="268464402" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="95" pc="268464599" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="97" pc="268464619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="98" pc="268464632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="99" pc="268464668" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="100" pc="268464940" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="102" pc="268464960" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="103" pc="268464973" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="104" pc="268465009" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="105" pc="268465293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="107" pc="268465313" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="108" pc="268465326" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="109" pc="268465362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="110" pc="268465646" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="126" pc="268465669" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="132" pc="268465744" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="133" pc="268465761" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="136" pc="268465786" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="139" pc="268465811" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="146" pc="268465830" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="147" pc="268465859" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="150" pc="268465884" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="153" pc="268465897" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\TargetAltitudeView.mc" lineNum="159" pc="268465916" symbol="onBack"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="23" pc="268465995" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="24" pc="268466031" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="25" pc="268466043" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="26" pc="268466079" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="28" pc="268466098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="29" pc="268466128" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="30" pc="268466158" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="31" pc="268466188" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="35" pc="268466218" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="37" pc="268466231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="40" pc="268466247" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="42" pc="268466260" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="45" pc="268466276" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="47" pc="268466289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="50" pc="268466305" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="52" pc="268466318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="56" pc="268466334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="57" pc="268466370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="58" pc="268466445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="61" pc="268466520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="62" pc="268466556" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="63" pc="268466850" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="65" pc="268466870" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="66" pc="268466906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="67" pc="268467200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="69" pc="268467220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="70" pc="268467256" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="71" pc="268467550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="74" pc="268467570" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="75" pc="268467606" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="76" pc="268467696" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="77" pc="268467786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="78" pc="268467876" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="86" pc="268467969" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\SettingView.mc" lineNum="91" pc="268468044" symbol="onCancel"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="36" pc="268468129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="37" pc="268468129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="38" pc="268468142" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="44" pc="268468165" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="45" pc="268468201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="47" pc="268468213" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="48" pc="268468226" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="49" pc="268468263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="52" pc="268468300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="53" pc="268468317" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="56" pc="268468342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="61" pc="268468370" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="62" pc="268468399" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="63" pc="268468406" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="64" pc="268468466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="65" pc="268468473" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="68" pc="268468533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="69" pc="268468564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="70" pc="268468595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="75" pc="268468626" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="77" pc="268468662" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="78" pc="268468687" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="79" pc="268468747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="80" pc="268468772" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="81" pc="268468832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="82" pc="268468857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="87" pc="268468917" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="88" pc="268468953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="89" pc="268469193" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="91" pc="268469207" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="92" pc="268469243" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="93" pc="268469483" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="95" pc="268469497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="96" pc="268469533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="97" pc="268469773" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="101" pc="268469790" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="102" pc="268469819" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="116" pc="268469880" symbol="onSelect"/>
+<entry filename="C:\\Users\\Firestorm\\Desktop\\Wingman\\WingmanV6\\source\\DZView.mc" lineNum="121" pc="268469955" symbol="onBack"/>
+<entry filename="Rez" lineNum="23" pc="268470031" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268470045" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268470142" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268470157" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268470209" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268470255" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="68" symbol="pAlt"/>
+<entry id="91" method="true" symbol="MovingAverage"/>
+<entry id="75" method="true" symbol="CalcVspeed"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="74" method="true" symbol="hDist"/>
+<entry id="8389716" method="true" symbol="atan2"/>
+<entry field="true" id="52" symbol="dzY_title"/>
+<entry field="true" id="87" symbol="yAccel"/>
+<entry field="true" id="71" symbol="Bearing"/>
+<entry field="true" id="83" symbol="buffer"/>
+<entry field="true" id="51" symbol="dzX_title"/>
+<entry id="37" object="true" symbol="MainMenuDelegate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="67" symbol="pTime"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="62" symbol="cAlt"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="27" symbol="statsArray"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry field="true" id="55" symbol="box"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry id="45" object="true" symbol="DZView"/>
+<entry field="true" id="89" symbol="tAccel"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="56" method="true" symbol="setAlt"/>
+<entry field="true" id="31" symbol="Menuindex"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="18" symbol="HR"/>
+<entry field="true" id="38" symbol="end"/>
+<entry id="12" object="true" symbol="inPlaneView"/>
+<entry field="true" id="53" symbol="TargetAlt_title"/>
+<entry field="true" id="8389761" symbol="centerY"/>
+<entry id="73" method="true" symbol="CourseCorrect"/>
+<entry field="true" id="8389760" symbol="centerX"/>
+<entry id="16" object="true" symbol="WingManV2View"/>
+<entry id="92" method="true" symbol="startRecording"/>
+<entry field="true" id="34" symbol="Arrow"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="93" method="true" symbol="stopRecording"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="82" symbol="CGS"/>
+<entry id="30" object="true" symbol="WingManV2App"/>
+<entry field="true" id="33" symbol="menuItem"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry field="true" id="8" symbol="reviewIndex"/>
+<entry id="41" object="true" symbol="TargetAltitudeView"/>
+<entry id="17" object="true" symbol="WatchFaceDelegate"/>
+<entry id="11" object="true" symbol="reviewViewDelegate"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="29" method="true" symbol="onSnsr"/>
+<entry field="true" id="50" symbol="dzZ_title"/>
+<entry field="true" id="54" symbol="AppName"/>
+<entry id="77" method="true" symbol="calcCGS"/>
+<entry id="44" object="true" symbol="SettingViewDelegate"/>
+<entry field="true" id="80" symbol="dtime"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="94" method="true" symbol="drawHand"/>
+<entry field="true" id="61" symbol="cPosY"/>
+<entry field="true" id="60" symbol="cPosX"/>
+<entry field="true" id="8388890" symbol="sport"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry field="true" id="8389605" symbol="accel"/>
+<entry field="true" id="32" symbol="lastIndex"/>
+<entry field="true" id="24" symbol="dzZ"/>
+<entry field="true" id="23" symbol="dzY"/>
+<entry field="true" id="22" symbol="dzX"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="76" method="true" symbol="CalcNGS"/>
+<entry field="true" id="64" symbol="hSpeed"/>
+<entry field="true" id="63" symbol="cHeading"/>
+<entry field="true" id="26" symbol="app"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="9" symbol="lastReviewIndex"/>
+<entry id="42" object="true" symbol="TargetAltitudeViewDelegate"/>
+<entry field="true" id="49" symbol="LauncherIcon"/>
+<entry field="true" id="21" symbol="earthRadius"/>
+<entry field="true" id="86" symbol="xAccel"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="79" symbol="offsetAlt"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="58" method="true" symbol="setMenuItem"/>
+<entry field="true" id="65" symbol="cTime"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="20" symbol="settings"/>
+<entry id="14" object="true" symbol="inFlightNavView"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="69" symbol="vSpeed"/>
+<entry field="true" id="85" symbol="canopy"/>
+<entry id="8388774" method="true" symbol="abs"/>
+<entry field="true" id="25" symbol="targetAlt"/>
+<entry field="true" id="40" symbol="index"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="84" symbol="status"/>
+<entry id="46" object="true" symbol="DZViewDelegate"/>
+<entry id="8389347" symbol="color"/>
+<entry id="95" method="true" symbol="drawHashMarks"/>
+<entry field="true" id="88" symbol="zAccel"/>
+<entry field="true" id="57" symbol="menuItemII"/>
+<entry id="59" method="true" symbol="setMenuItemII"/>
+<entry field="true" id="19" symbol="posnInfo"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="8389338" symbol="minute"/>
+<entry field="true" id="8388651" symbol="session"/>
+<entry id="72" method="true" symbol="mod"/>
+<entry id="43" object="true" symbol="SettingView"/>
+<entry id="13" object="true" symbol="inPlaneViewDelegate"/>
+<entry id="48" module="true" symbol="Layouts"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="36" object="true" symbol="WingManMainMenu"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="10" object="true" symbol="reviewView"/>
+<entry field="true" id="81" symbol="NGS"/>
+<entry id="28" method="true" symbol="setPosition"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="47" module="true" symbol="Menus"/>
+<entry field="true" id="70" symbol="Distance"/>
+<entry id="15" object="true" symbol="inFlightNavViewDelegate"/>
+<entry field="true" id="66" symbol="clock"/>
+<entry id="78" method="true" symbol="drawArrow"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="35" symbol="scale"/>
+<entry id="8389541" method="true" symbol="onCancel"/>
+<entry id="90" method="true" symbol="setStatus"/>
+<entry field="true" id="39" symbol="inc"/>
+</symbolTable>
+<localVars>
+<entry endPc="268440168" name="Mreturn" stackId="3" startPc="268440143"/>
+<entry endPc="268440586" name="dLong" stackId="6" startPc="268440216"/>
+<entry endPc="268440586" name="cc" stackId="8" startPc="268440216"/>
+<entry endPc="268440586" name="dPhi" stackId="7" startPc="268440216"/>
+<entry endPc="268440798" name="a" stackId="6" startPc="268440589"/>
+<entry endPc="268440798" name="d" stackId="8" startPc="268440589"/>
+<entry endPc="268440798" name="c" stackId="7" startPc="268440589"/>
+<entry endPc="268440950" name="HorzSpeed" stackId="7" startPc="268440900"/>
+<entry endPc="268440950" name="VertSpeed" stackId="6" startPc="268440900"/>
+<entry endPc="268440950" name="CGS" stackId="8" startPc="268440900"/>
+<entry endPc="268441321" name="x" stackId="12" startPc="268441222"/>
+<entry endPc="268441321" name="y" stackId="13" startPc="268441222"/>
+<entry endPc="268441334" name="i" stackId="11" startPc="268441222"/>
+<entry endPc="268441362" name="result" stackId="6" startPc="268440953"/>
+<entry endPc="268441362" name="sin" stackId="10" startPc="268440953"/>
+<entry endPc="268441362" name="cos" stackId="9" startPc="268440953"/>
+<entry endPc="268441362" name="centerY" stackId="8" startPc="268440953"/>
+<entry endPc="268441362" name="coords" stackId="5" startPc="268440953"/>
+<entry endPc="268441362" name="centerX" stackId="7" startPc="268440953"/>
+<entry endPc="268444687" name="string" stackId="2" startPc="268441374"/>
+<entry endPc="268445166" name="Mreturn" stackId="3" startPc="268445141"/>
+<entry endPc="268445584" name="dLong" stackId="6" startPc="268445214"/>
+<entry endPc="268445584" name="cc" stackId="8" startPc="268445214"/>
+<entry endPc="268445584" name="dPhi" stackId="7" startPc="268445214"/>
+<entry endPc="268445796" name="a" stackId="6" startPc="268445587"/>
+<entry endPc="268445796" name="d" stackId="8" startPc="268445587"/>
+<entry endPc="268445796" name="c" stackId="7" startPc="268445587"/>
+<entry endPc="268446543" name="x" stackId="12" startPc="268446444"/>
+<entry endPc="268446543" name="y" stackId="13" startPc="268446444"/>
+<entry endPc="268446556" name="i" stackId="11" startPc="268446444"/>
+<entry endPc="268446584" name="result" stackId="6" startPc="268446016"/>
+<entry endPc="268446584" name="sin" stackId="10" startPc="268446016"/>
+<entry endPc="268446584" name="cos" stackId="9" startPc="268446016"/>
+<entry endPc="268446584" name="centerY" stackId="8" startPc="268446016"/>
+<entry endPc="268446584" name="coords" stackId="5" startPc="268446016"/>
+<entry endPc="268446584" name="centerX" stackId="7" startPc="268446016"/>
+<entry endPc="268446627" name="newAverage" stackId="4" startPc="268446587"/>
+<entry endPc="268452858" name="string" stackId="2" startPc="268446922"/>
+<entry endPc="268452858" name="info" stackId="3" startPc="268446922"/>
+<entry endPc="268453227" name="a" stackId="6" startPc="268453018"/>
+<entry endPc="268453227" name="d" stackId="8" startPc="268453018"/>
+<entry endPc="268453227" name="c" stackId="7" startPc="268453018"/>
+<entry endPc="268453831" name="x" stackId="18" startPc="268453732"/>
+<entry endPc="268453831" name="y" stackId="19" startPc="268453732"/>
+<entry endPc="268453844" name="i" stackId="17" startPc="268453732"/>
+<entry endPc="268454299" name="x" stackId="21" startPc="268454200"/>
+<entry endPc="268454299" name="y" stackId="22" startPc="268454200"/>
+<entry endPc="268454312" name="i" stackId="20" startPc="268454200"/>
+<entry endPc="268454789" name="x" stackId="32" startPc="268454690"/>
+<entry endPc="268454789" name="y" stackId="33" startPc="268454690"/>
+<entry endPc="268454802" name="i" stackId="31" startPc="268454690"/>
+<entry endPc="268455163" name="x" stackId="35" startPc="268455064"/>
+<entry endPc="268455163" name="y" stackId="36" startPc="268455064"/>
+<entry endPc="268455176" name="i" stackId="34" startPc="268455064"/>
+<entry endPc="268455546" name="x" stackId="38" startPc="268455447"/>
+<entry endPc="268455546" name="y" stackId="39" startPc="268455447"/>
+<entry endPc="268455559" name="i" stackId="37" startPc="268455447"/>
+<entry endPc="268455587" name="thickness" stackId="6" startPc="268453230"/>
+<entry endPc="268455587" name="sin" stackId="16" startPc="268453230"/>
+<entry endPc="268455587" name="result3" stackId="10" startPc="268453230"/>
+<entry endPc="268455587" name="result2" stackId="9" startPc="268453230"/>
+<entry endPc="268455587" name="cos" stackId="15" startPc="268453230"/>
+<entry endPc="268455587" name="y2" stackId="26" startPc="268453230"/>
+<entry endPc="268455587" name="y1" stackId="25" startPc="268453230"/>
+<entry endPc="268455587" name="centerY" stackId="14" startPc="268453230"/>
+<entry endPc="268455587" name="centerX" stackId="13" startPc="268453230"/>
+<entry endPc="268455587" name="result" stackId="8" startPc="268453230"/>
+<entry endPc="268455587" name="coords" stackId="7" startPc="268453230"/>
+<entry endPc="268455587" name="x2" stackId="24" startPc="268453230"/>
+<entry endPc="268455587" name="x1" stackId="23" startPc="268453230"/>
+<entry endPc="268455587" name="b" stackId="28" startPc="268453230"/>
+<entry endPc="268455587" name="a" stackId="27" startPc="268453230"/>
+<entry endPc="268455587" name="rlocy" stackId="30" startPc="268453230"/>
+<entry endPc="268455587" name="rlocx" stackId="29" startPc="268453230"/>
+<entry endPc="268455587" name="result5" stackId="12" startPc="268453230"/>
+<entry endPc="268455587" name="result4" stackId="11" startPc="268453230"/>
+<entry endPc="268456096" name="x" stackId="12" startPc="268455959"/>
+<entry endPc="268456096" name="y" stackId="13" startPc="268455959"/>
+<entry endPc="268456109" name="i" stackId="11" startPc="268455959"/>
+<entry endPc="268456575" name="x" stackId="15" startPc="268456438"/>
+<entry endPc="268456575" name="y" stackId="16" startPc="268456438"/>
+<entry endPc="268456588" name="i" stackId="14" startPc="268456438"/>
+<entry endPc="268456634" name="width" stackId="2" startPc="268455590"/>
+<entry endPc="268456634" name="result2" stackId="6" startPc="268455590"/>
+<entry endPc="268456634" name="angle" stackId="3" startPc="268455590"/>
+<entry endPc="268456634" name="centerY" stackId="8" startPc="268455590"/>
+<entry endPc="268456634" name="centerX" stackId="7" startPc="268455590"/>
+<entry endPc="268456634" name="sin" stackId="10" startPc="268455590"/>
+<entry endPc="268456634" name="coords" stackId="4" startPc="268455590"/>
+<entry endPc="268456634" name="cos" stackId="9" startPc="268455590"/>
+<entry endPc="268456634" name="result" stackId="5" startPc="268455590"/>
+<entry endPc="268458008" name="now" stackId="10" startPc="268456698"/>
+<entry endPc="268458008" name="width" stackId="2" startPc="268456698"/>
+<entry endPc="268458008" name="info" stackId="11" startPc="268456698"/>
+<entry endPc="268458008" name="font" stackId="7" startPc="268456698"/>
+<entry endPc="268458008" name="clockTime" stackId="4" startPc="268456698"/>
+<entry endPc="268458008" name="hand" stackId="8" startPc="268456698"/>
+<entry endPc="268458008" name="hour" stackId="5" startPc="268456698"/>
+<entry endPc="268458008" name="min" stackId="6" startPc="268456698"/>
+<entry endPc="268458008" name="height" stackId="3" startPc="268456698"/>
+<entry endPc="268458008" name="cDZ" stackId="9" startPc="268456698"/>
+<entry endPc="268465666" name="width" stackId="2" startPc="268462723"/>
+<entry endPc="268469787" name="box" stackId="4" startPc="268468226"/>
+<entry endPc="268469876" name="string" stackId="2" startPc="268468129"/>
+<entry endPc="268469876" name="width" stackId="3" startPc="268468129"/>
+<entry endPc="268470272" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268470031"/>
+<entry endPc="268470272" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268470031"/>
+<entry endPc="268470272" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268470031"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="setMenuItem" parent="reviewView">
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setMenuItemII" parent="reviewView">
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="reviewView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="reviewView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="reviewView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="reviewView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="reviewView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSelect" parent="reviewViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onCancel" parent="reviewViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="reviewViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="reviewViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="inPlaneView">
+<documentation/>
+</functionEntry>
+<functionEntry name="atan2" parent="inPlaneView">
+<param id="y"/>
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="mod" parent="inPlaneView">
+<param id="num"/>
+<param id="div"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="abs" parent="inPlaneView">
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="CourseCorrect" parent="inPlaneView">
+<param id="startLat"/>
+<param id="endLat"/>
+<param id="startLong"/>
+<param id="endLong"/>
+<param id="h"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="hDist" parent="inPlaneView">
+<param id="lat1"/>
+<param id="lat2"/>
+<param id="lon1"/>
+<param id="lon2"/>
+<param id="r"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="CalcVspeed" parent="inPlaneView">
+<param id="z2"/>
+<param id="z1"/>
+<param id="ct"/>
+<param id="pt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="CalcNGS" parent="inPlaneView">
+<param id="ta"/>
+<param id="ca"/>
+<param id="dis"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcCGS" parent="inPlaneView">
+<param id="z2"/>
+<param id="z1"/>
+<param id="ct"/>
+<param id="pt"/>
+<param id="hs"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawArrow" parent="inPlaneView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="width"/>
+<param id="length"/>
+<documentation><![CDATA[<div class="description"> <div class="param"> dc Device Context to Draw</div><br/> <div class="param"> angle Angle to draw the watch hand</div><br/> <div class="param"> length Length of the watch hand</div><br/> <div class="param"> width Width of the watch hand</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="inPlaneView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="inPlaneView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="inPlaneView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="inPlaneView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSelect" parent="inPlaneViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="inPlaneViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="inPlaneViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="inPlaneViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="inFlightNavView">
+<documentation/>
+</functionEntry>
+<functionEntry name="atan2" parent="inFlightNavView">
+<param id="y"/>
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="mod" parent="inFlightNavView">
+<param id="num"/>
+<param id="div"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="abs" parent="inFlightNavView">
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="CourseCorrect" parent="inFlightNavView">
+<param id="startLat"/>
+<param id="endLat"/>
+<param id="startLong"/>
+<param id="endLong"/>
+<param id="h"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="hDist" parent="inFlightNavView">
+<param id="lat1"/>
+<param id="lat2"/>
+<param id="lon1"/>
+<param id="lon2"/>
+<param id="r"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="CalcVspeed" parent="inFlightNavView">
+<param id="z2"/>
+<param id="z1"/>
+<param id="ct"/>
+<param id="pt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="CalcNGS" parent="inFlightNavView">
+<param id="ta"/>
+<param id="ca"/>
+<param id="dis"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calcCGS" parent="inFlightNavView">
+<param id="vs"/>
+<param id="hs"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setStatus" parent="inFlightNavView">
+<param id="c"/>
+<param id="n"/>
+<param id="b"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawArrow" parent="inFlightNavView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="width"/>
+<param id="length"/>
+<documentation><![CDATA[<div class="description"> <div class="param"> dc Device Context to Draw</div><br/> <div class="param"> angle Angle to draw the watch hand</div><br/> <div class="param"> length Length of the watch hand</div><br/> <div class="param"> width Width of the watch hand</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MovingAverage" parent="inFlightNavView">
+<param id="oldAvg"/>
+<param id="oldCount"/>
+<param id="newValue"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="startRecording" parent="inFlightNavView">
+<documentation/>
+</functionEntry>
+<functionEntry name="stopRecording" parent="inFlightNavView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="inFlightNavView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="inFlightNavView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="inFlightNavView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="inFlightNavView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSelect" parent="inFlightNavViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="inFlightNavViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="inFlightNavViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="inFlightNavViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="hDist" parent="WingManV2View">
+<param id="lat1"/>
+<param id="lat2"/>
+<param id="lon1"/>
+<param id="lon2"/>
+<param id="r"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHand" parent="WingManV2View">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<param id="hand"/>
+<documentation><![CDATA[<div class="description"> Draw the watch hand<br/> <div class="param"> dc Device Context to Draw</div><br/> <div class="param"> angle Angle to draw the watch hand</div><br/> <div class="param"> length Length of the watch hand</div><br/> <div class="param"> width Width of the watch hand</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawHashMarks" parent="WingManV2View">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the hash mark symbols on the watch<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="WingManV2View">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="WingManV2View">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="WingManV2View">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="WingManV2View">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSelect" parent="WatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="WatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="WatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="WatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="setPosition">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSnsr">
+<param id="sensor_info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="WingManV2App">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="WingManV2App">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="WingManV2App">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="setMenuItem" parent="WingManMainMenu">
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="WingManMainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="WingManMainMenu">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="WingManMainMenu">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="WingManMainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="WingManMainMenu">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSelect" parent="MainMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="MainMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="MainMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="MainMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="setAlt" parent="TargetAltitudeView">
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="TargetAltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="TargetAltitudeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="TargetAltitudeView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="TargetAltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="TargetAltitudeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSelect" parent="TargetAltitudeViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="TargetAltitudeViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="TargetAltitudeViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="TargetAltitudeViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SettingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="SettingView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="SettingViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onCancel" parent="SettingViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DZView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="DZView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DZView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DZView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSelect" parent="DZViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="DZViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
