@@ -4,7 +4,7 @@ using Toybox.Sensor as Snsr;
 using Toybox.WatchUi as Ui;
 using Toybox.System as Sys;
 
-
+// This is the entry point for the App
 
 
 var HR = null;
@@ -29,8 +29,7 @@ var statsArray = [0,0,0,100000,0,0,100000,0,0,100000,0,10000];
        Ui.requestUpdate(); 
     }
     
-        function onSnsr(sensor_info)
-    {
+    function onSnsr(sensor_info){
       HR = sensor_info.heartRate;
       Ui.requestUpdate();
     }
@@ -38,20 +37,16 @@ var statsArray = [0,0,0,100000,0,0,100000,0,0,100000,0,10000];
 
 class WingManV2App extends App.AppBase {
 
-
-
-
     //! onStart() is called on application start up
     function onStart() {
-    Position.enableLocationEvents( Position.LOCATION_CONTINUOUS, method( :setPosition ) );
-    Snsr.setEnabledSensors( [Snsr.SENSOR_HEARTRATE] );
-    Snsr.enableSensorEvents( method(:onSnsr) );
-
+        Position.enableLocationEvents( Position.LOCATION_CONTINUOUS, method( :setPosition ) );
+        Snsr.setEnabledSensors( [Snsr.SENSOR_HEARTRATE] );
+        Snsr.enableSensorEvents( method(:onSnsr) );
     }
 
     //! onStop() is called when your application is exiting
     function onStop() {
-    Position.enableLocationEvents( Position.LOCATION_DISABLE, method( :setPosition ) );
+        Position.enableLocationEvents( Position.LOCATION_DISABLE, method( :setPosition ) );
     }
 
     //! Return the initial view of your application here

@@ -150,56 +150,39 @@ return
     //! Called when this View is removed from the screen. Save the
     //! state of this View here. This includes freeing resources from
     //! memory.
-
-
-
 }
-class reviewViewDelegate extends Ui.BehaviorDelegate
-{
+class reviewViewDelegate extends Ui.BehaviorDelegate{
 
-    function onSelect()
-    {       
+    function onSelect(){       
 
         Ui.pushView(new WingManV2View(),new WatchFaceDelegate(), Ui.SLIDE_IMMEDIATE); 
   
     }
 
-    function onCancel()
-    {       
+    function onCancel(){       
 
         Ui.pushView(new WingManV2View(),new WatchFaceDelegate(), Ui.SLIDE_IMMEDIATE); 
   
     }
 
-    function onNextPage()
-    {
-    if(reviewIndex < lastReviewIndex){
-         reviewIndex = reviewIndex +1;
-         }
-         else{
-         reviewIndex = 1;
-         }
-         
-         
-         Ui.requestUpdate();
-         
+    function onNextPage(){
+        if(reviewIndex < lastReviewIndex){
+            reviewIndex = reviewIndex +1;
+        }
+        else{
+            reviewIndex = 1;
+        }
+            Ui.requestUpdate();
     }
     
     function onPreviousPage()
     {
-      if(reviewIndex > 1){
-         reviewIndex = reviewIndex -1;
-         }
-         else{
-         reviewIndex = lastReviewIndex;
-         }
-         
-         
-         
+        if(reviewIndex > 1){
+            reviewIndex = reviewIndex -1;
+        }
+        else{
+            reviewIndex = lastReviewIndex;
+        }
          Ui.requestUpdate();
-         
     }
-
-
-
 }

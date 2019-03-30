@@ -1,19 +1,17 @@
 <resources>
-
+<!-- Location Variables -->
     <properties>
         <property id="dzX_prop" type="float">0.0000</property>
-	<property id="dzY_prop" type="float">0.00000</property>
-	<property id="dzZ_prop" type="float">0.00000</property>
-	<property id="TargetAlt_prop" type="float">0.0000</property>
+        <property id="dzY_prop" type="float">0.00000</property>
+        <property id="dzZ_prop" type="float">0.00000</property>
+        <property id="TargetAlt_prop" type="float">0.0000</property>
     </properties>
-
-    <strings>
-       
+<!-- Location Titles -->
+    <strings>  
         <string id="dzX_title">Float</string>
-	<string id="dzY_title">Float</string>
-	<string id="dzZ_title">Float</string>
-	<string id="TargetAlt_title">Float</string>
-
+        <string id="dzY_title">Float</string>
+        <string id="dzZ_title">Float</string>
+        <string id="TargetAlt_title">Float</string>
     </strings>
 
     <settings>
@@ -33,7 +31,6 @@
         <setting propertyKey="TargetAlt_prop" title="TargetAlt_title">
             <settingConfig type="numeric" />
         </setting>
-
-
     </settings>
+
 </resources>

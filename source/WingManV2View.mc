@@ -12,21 +12,17 @@ using Toybox.Application as App;
 
 class WingManV2View extends Ui.WatchFace {
 //******************************************************************
-    function hDist(lat1,lat2,lon1,lon2,r)
-    {
-    // calculates the distance between you and the target
-    var a;
-    var c;
-    var d;
+    function hDist(lat1,lat2,lon1,lon2,r){
+        // calculates the distance between you and the target
+        var a;
+        var c;
+        var d;
 
-    
-    a = Math.pow(Math.sin(((lat2 - lat1) / 2)),2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(((lon2 - lon1) / 2)),2);
+        a = Math.pow(Math.sin(((lat2 - lat1) / 2)),2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(((lon2 - lon1) / 2)),2);
+        c = 2 * atan2(Math.sqrt(a),Math.sqrt(1-a));
+        d = r.toFloat() * c;
         
-    c = 2 * atan2(Math.sqrt(a),Math.sqrt(1-a));
-    
-    d = r.toFloat() * c;
-    
-    return d; 
+        return d; 
     }
 
 
@@ -37,15 +33,14 @@ class WingManV2View extends Ui.WatchFace {
     //! @param length Length of the watch hand
     //! @param width Width of the watch hand
     
-    function drawHand(dc, angle, length, width,hand)
-    {
-    var thickness;
-    if(hand == 1){
-     thickness = 5;
-    }
-    else{
-     thickness = 4;
-    }
+    function drawHand(dc, angle, length, width,hand){
+        var thickness;
+        if(hand == 1){
+            thickness = 5;
+        }
+        else{
+            thickness = 4;
+        }
         // Map out the coordinates of the watch hand
         var coords = [ [(-(width/2)-1)-1,0], [(-(width/2)-thickness-1), (-length*.75)], [width/2, -length-1] ,[(width/2+thickness)+1, (-length*.75)], [(width/2+1)+1, 0] ];
         var result = new [5];
@@ -135,10 +130,6 @@ class WingManV2View extends Ui.WatchFace {
         // Draw the polygon
         dc.fillPolygon(result4);
         dc.fillPolygon(result4);       
-        
-        
-        
-        
     }
 
    //****************************************************************
@@ -294,47 +285,16 @@ class WingManV2View extends Ui.WatchFace {
         dc.drawCircle(width/2, height/2, 1);
         
         //If the user is aproximately 500 feet above the Dz then push the in airplane view.
-       
-       if(dzX != null){
-        if(settings == 0 && posnInfo.altitude > (dzZ+200)){
-        Ui.pushView(new inPlaneView(),new inPlaneViewDelegate(),Ui.SLIDE_IMMEDIATE);
+        if(dzX != null){
+            if(settings == 0 && posnInfo.altitude > (dzZ+200)){
+                Ui.pushView(new inPlaneView(),new inPlaneViewDelegate(),Ui.SLIDE_IMMEDIATE);
+            }
+            else if(settings == 1 && (posnInfo.altitude*3.2808399) > (dzZ+500)){ 
+                Ui.pushView(new inPlaneView(),new inPlaneViewDelegate(),Ui.SLIDE_IMMEDIATE);
+            }
         }
-        else if(settings == 1 && (posnInfo.altitude*3.2808399) > (dzZ+500)){ 
-        Ui.pushView(new inPlaneView(),new inPlaneViewDelegate(),Ui.SLIDE_IMMEDIATE);
-        }
-      }
-
-//
-//          if(settings == 0){
-//          cDZ = hDist(dzX,posnInfo.position.toRadians()[0],dzY,posnInfo.position.toRadians()[1],earthRadius)/1000;
-//             if(dzX == null || cDZ > 16){
-//          dc.setColor( Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT );
-//          dc.drawText( dc.getWidth() / 2, (dc.getHeight() / 2 + 40 ), Gfx.FONT_TINY, "DZ not set" , Gfx.TEXT_JUSTIFY_CENTER );
-//      }
-//       
-//          }
-//          else{
-//          cDZ = hDist(dzX,posnInfo.position.toRadians()[0],dzY,posnInfo.position.toRadians()[1],earthRadius)*0.000189394;
-//       
-//          if(dzX == null || cDZ > 10){
-//          dc.setColor( Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT );
-//          dc.drawText( dc.getWidth() / 2, (dc.getHeight() / 2 + 40 ), Gfx.FONT_TINY, "DZ not set" , Gfx.TEXT_JUSTIFY_CENTER );
-//     }
-//          }
-
-     
-
-
-      
-
-
-
-
     }
-
-
-
-    }
+}
 
     //! Called when this View is removed from the screen. Save the
     //! state of this View here. This includes freeing resources from
@@ -342,26 +302,21 @@ class WingManV2View extends Ui.WatchFace {
     function onHide() {
     }
 
-class WatchFaceDelegate extends Ui.BehaviorDelegate
-{
-    function onSelect()
-    {
+class WatchFaceDelegate extends Ui.BehaviorDelegate{
+    function onSelect(){
         
         Ui.pushView(new WingManMainMenu(),new MainMenuDelegate(), Ui.SLIDE_IMMEDIATE);
     }
     
-    function onNextPage()
-    {
+    function onNextPage(){
         return false;
     }
 
-    function onPreviousPage()
-    {
+    function onPreviousPage(){
         return false;
     }
     
-    function onBack()
-    {
+    function onBack(){
         Sys.exit();
     }
 

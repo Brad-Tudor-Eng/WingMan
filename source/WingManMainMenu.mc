@@ -17,14 +17,9 @@ var centerX;
 var centerY;
 
 
-
-
 class WingManMainMenu extends Ui.View {
 
 var width;
-
-
-
 
 //********************************************************************
 // Built in functions below
@@ -81,7 +76,6 @@ return
      dc.drawText((width/2),(width/2)-72,Gfx.FONT_LARGE,"MENU",Gfx.TEXT_JUSTIFY_CENTER);
 	
 	// draw the up arrow
-	
     dc.setColor( Gfx.COLOR_DK_GRAY, Gfx.COLOR_TRANSPARENT );
     Arrow = [ [((width/2 + width/4)),((width/2))], [(width/2), ((width/2-width/8))], [((width/2-width/4)), ((width/2))] ];
     dc.fillPolygon(Arrow);
@@ -102,7 +96,6 @@ return
     dc.fillPolygon(Arrow);
 
 	// draw the down arrow
-   
     dc.setColor( Gfx.COLOR_DK_GRAY, Gfx.COLOR_TRANSPARENT );
     Arrow = [ [((width/2+width/4)),((width/2)+60)], [((width/2)), ((width/2+width/8+60))], [((width/2-width/4)), ((width/2)+60)] ];
     dc.fillPolygon(Arrow);
@@ -127,14 +120,10 @@ return
     //! Called when this View is removed from the screen. Save the
     //! state of this View here. This includes freeing resources from
     //! memory.
-
-
-
 }
 class MainMenuDelegate extends Ui.BehaviorDelegate
 {
-    function onSelect()
-    {
+    function onSelect(){
     
   	// push view based on index item
 	return
@@ -146,41 +135,30 @@ class MainMenuDelegate extends Ui.BehaviorDelegate
         Ui.pushView(new DZView(),new DZViewDelegate(), Ui.SLIDE_IMMEDIATE);    
     }
     
-    function onNextPage()
-    {
-    if(Menuindex < lastIndex){
-         Menuindex = Menuindex +1;
-         }
-         else{
-         Menuindex = 1;
-         }
-         
-         
-         Ui.requestUpdate();
-         
+    //cycle though the page menus
+    function onNextPage(){
+        if(Menuindex < lastIndex){
+            Menuindex = Menuindex +1;
+        }
+        else{
+        Menuindex = 1;
+        }
+        Ui.requestUpdate();
     }
     
-    function onPreviousPage()
-    {
-      if(Menuindex > 1){
-         Menuindex = Menuindex -1;
-         }
-         else{
-         Menuindex = lastIndex;
-         }
-         
-         
-         
-         Ui.requestUpdate();
-         
+    //
+    function onPreviousPage(){
+        if(Menuindex > 1){
+            Menuindex = Menuindex -1;
+        }
+        else{
+            Menuindex = lastIndex;
+        }
+        Ui.requestUpdate();
     }
 
-
-    
-    function onBack()
-    {
-     Ui.pushView(new WingManV2View(),new WatchFaceDelegate(), Ui.SLIDE_IMMEDIATE); 
-
+    function onBack(){
+        Ui.pushView(new WingManV2View(),new WatchFaceDelegate(), Ui.SLIDE_IMMEDIATE); 
     }
     
 

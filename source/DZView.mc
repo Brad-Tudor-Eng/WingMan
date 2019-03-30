@@ -37,24 +37,22 @@ class DZView extends Ui.View {
         var width = dc.getWidth();
         app = App.getApp();
         
-
-
-
         // Set background color
         dc.setColor( Gfx.COLOR_TRANSPARENT, Gfx.COLOR_BLACK );
         dc.clear();
-        
+
+        //check to see if the position information is avaliable
         if( posnInfo != null ) {
-        dzX = posnInfo.position.toRadians()[0];
-        dzY = posnInfo.position.toRadians()[1];
+            dzX = posnInfo.position.toRadians()[0];
+            dzY = posnInfo.position.toRadians()[1];
         
-        
-        if(settings == 0){
-        dzZ = posnInfo.altitude;
-        }
-        else{
-        dzZ = posnInfo.altitude*3.2808399;
-        }
+            //check the units of the settings for standard or metricd
+            if(settings == 0){
+                dzZ = posnInfo.altitude;
+            }
+            else{
+                dzZ = posnInfo.altitude*3.2808399;
+            }
             
             
             //TITLE
@@ -69,11 +67,9 @@ class DZView extends Ui.View {
             app.setProperty("dzY_prop", dzY );
             app.setProperty("dzZ_prop", dzZ );
 
-            
-            
             //INFORMATION
             dc.setColor( Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT );
-            
+            //render out the lables
             string = "LAT = " + dzX.toString();
             dc.drawText( ((width / 2)), ((width / 2) - 5), Gfx.FONT_SMALL, string, Gfx.TEXT_JUSTIFY_CENTER );
             string = "LONG = " + dzY.toString();
@@ -81,20 +77,18 @@ class DZView extends Ui.View {
             string = "ALT = " + dzZ.toString();
             dc.drawText( ((width / 2)), ((width / 2+35)), Gfx.FONT_SMALL, string, Gfx.TEXT_JUSTIFY_CENTER );
             
-
-
-    //draw white box        
-    dc.setColor( Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT );
-    var box = [ [width/2+100,width/2-15], [width/2+100, width/2-30], [width/2-100, width/2-30],[width/2-100, width/2-15] ];
-    dc.fillPolygon(box);
-        //draw white box        
-    dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT );
-    box = [ [width/2+100,width/2-17], [width/2+100, width/2-28], [width/2-100, width/2-28],[width/2-100, width/2-17] ];
-    dc.fillPolygon(box);
-        //draw white box        
-    dc.setColor( Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT );
-    box = [ [width/2+100,width/2-19], [width/2+100, width/2-26], [width/2-100, width/2-26],[width/2-100, width/2-19] ];
-    dc.fillPolygon(box);
+            //draw white box        
+            dc.setColor( Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT );
+            var box = [ [width/2+100,width/2-15], [width/2+100, width/2-30], [width/2-100, width/2-30],[width/2-100, width/2-15] ];
+            dc.fillPolygon(box);
+                //draw white box        
+            dc.setColor( Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT );
+            box = [ [width/2+100,width/2-17], [width/2+100, width/2-28], [width/2-100, width/2-28],[width/2-100, width/2-17] ];
+            dc.fillPolygon(box);
+                //draw white box        
+            dc.setColor( Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT );
+            box = [ [width/2+100,width/2-19], [width/2+100, width/2-26], [width/2-100, width/2-26],[width/2-100, width/2-19] ];
+            dc.fillPolygon(box);
           
         }
         else {
