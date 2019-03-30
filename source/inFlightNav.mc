@@ -186,8 +186,7 @@ class inFlightNavView extends Ui.View {
         var sin = Math.sin(angle);
 
         // Transform the coordinates
-        for (var i = 0; i < 6; i += 1)
-        {
+        for (var i = 0; i < 6; i += 1){
             var x = (coords[i][0] * cos) - (coords[i][1] * sin);
             var y = (coords[i][0] * sin) + (coords[i][1] * cos);
             result[i] = [ centerX+x, centerY+y];
