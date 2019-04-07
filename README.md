@@ -11,7 +11,7 @@ the landing area, current altitude, horizontal and vertical speed.
 
 When the pilot is ready to exit the plane, they press the record button.  Once activated an arrow, glide slope indicator and current
 altitude are displayed.  The arrow always points back to the landing
-area.  The glide slope indicator displays red, yellow and green letting the pilot know if it's currently possiable for them to make it back to the landing area.
+area.  The glide slope indicator displays red, yellow and green (blue when under parachute) letting the pilot know if it's currently possiable for them to make it back to the landing area.
 
 Once the pilot lands they press the record button again stopping the recording and uploading the information to garmins connect service so it can be logged and reviewed on the mobile device.
 
